@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1395420454 source:c:\users\nrgy\desktop\cpp\frogandroad\main.cpp
+	<allegro.h>
+	<iostream>
+	<stdlib.h>
+
+1395432923 source:c:\users\administrator\desktop\frogandroad\main.cpp
+	<allegro.h>
+	<iostream>
+	<stdlib.h>
+
